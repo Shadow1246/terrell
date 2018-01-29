@@ -1,4 +1,6 @@
 life
+pool
+table
 is
 a
 bunch
